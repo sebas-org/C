@@ -1,2 +1,2 @@
 # C
-C project
+C project to test reusable workflows
